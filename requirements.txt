@@ -1,0 +1,6 @@
+Django server should receive as an input an image
+There should be a functionality of uploading the image
+Once image is uploaded there should be a functionality of running a CNN based image classifier
+Store path to an image and image classifier result in DB
+Use as DB MySQL or Postgresql
+Deploy the project into Heroku
